@@ -1,0 +1,16 @@
+2025-06-10 21:18:36 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Launching SubscriptionManager GUI...
+2025-06-10 21:18:36 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Application window visible.
+2025-06-10 21:19:31 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Launching SubscriptionManager GUI...
+2025-06-10 21:19:31 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Application window visible.
+2025-06-10 21:19:34 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Clicked 'Add' button
+2025-06-10 21:30:56 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Launching SubscriptionManager GUI...
+2025-06-10 21:30:56 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Application window visible.
+2025-06-10 21:43:54 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Launching SubscriptionManager GUI...
+2025-06-10 21:43:54 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Application window visible.
+2025-06-10 21:44:08 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Clicked 'Add' button
+2025-06-10 21:44:10 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - New subscription added for customer: 
+2025-06-10 21:44:18 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Removed subscription with ID: S0003
+2025-06-10 21:44:27 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Clicked 'Add' button
+2025-06-10 21:44:44 [AWT-EventQueue-0] WARN  SubscriptionManagerGUI - Edit attempted with no row selected.
+2025-06-10 21:44:50 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Editing subscription with ID: S0002
+2025-06-10 21:44:58 [AWT-EventQueue-0] INFO  SubscriptionManagerGUI - Subscription with ID S0002 edited.
